@@ -1,35 +1,47 @@
 const Skill = [
   {
-    name: "HTML",
+    img: html
   },
   {
-    name: "CSS",
+    img: css
   },
   {
-    name: "JAVASCRIPT",
+    img: javascript
   },
   {
-    name: "REACT",
+    img: tailwindcss
   },
   {
-    name: "TAILWIND CSS",
+    img: react
   },
   {
-    name: "NODE JS",
+    img: nodejs
   },
   {
-    name: "EXPRESS JS",
+    img: express
   },
   {
-    name: "MOONGO DB",
+    img: db
   },
   {
-    name: "GIT",
+    img: git
   },
 ];
 
-import img1 from "./assets/project1.png"
+import html from "./assets/html.png"
+import css from "./assets/css.png"
+import javascript from "./assets/javascript.png"
+import tailwindcss from "./assets/tailwindcss.png"
+import react from "./assets/react.png"
+import nodejs from "./assets/nodejs.png"
+import express from "./assets/express.png"
+import db from "./assets/db.png"
+import git from "./assets/git.png"
 
+
+
+
+import img1 from "./assets/project1.png"
 const project = [
   {
     img: img1,

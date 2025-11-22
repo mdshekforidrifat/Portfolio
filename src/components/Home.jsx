@@ -26,6 +26,7 @@ const Home = () => {
         <section id="contact" className="scroll-mt-30">
           {" "}
           <Contact />
+          <img src="" alt="" />
         </section>
       </div>
       <Footer/>
