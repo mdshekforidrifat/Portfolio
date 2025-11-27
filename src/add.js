@@ -52,6 +52,15 @@ const project = [
     demoCode: "https://github.com/mdshekforidrifat/shekDine-Restaurant-Web",
     tags: ["React", "Tailwind css"],
   },
+  {
+    img: img1,
+    title: " Mern Chat App (pending)",
+    description:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos modi officia aut, ullam doloribus id in repellat quaerat explicabo illo corporis, dolore fugiat exercitationem. Ad voluptatibus nobis voluptas! Magni, enim.",
+    live: "",
+    demoCode: "",
+    tags: ["React", "Tailwind css" , "nodejs" , "expressjs","mongodb"],
+  },
   
 ];
 
